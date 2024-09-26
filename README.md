@@ -1,4 +1,4 @@
-nheritance
+Inheritance
 Aim
 To understand and implement various types of inheritance in C++ .
 
